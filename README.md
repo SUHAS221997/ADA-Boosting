@@ -1,4 +1,5 @@
 Predicting Income Level Using AdaBoost
+
 This repository contains a machine learning project aimed at predicting whether an individual earns more than $50K per year based on their demographic features using the AdaBoost algorithm. The dataset used is the Census Income Dataset (also known as the "Adult" dataset), which contains various features like age, education, marital status, occupation, and more.
 AdaBoost (Adaptive Boosting) is an ensemble learning technique that combines the predictions of multiple weak learners (in this case, decision trees) to create a stronger predictive model. The goal is to build a classifier that predicts if a person’s income is above or below $50K based on the features provided.
 
@@ -25,4 +26,5 @@ Features:
 15. income: The target variable, <=50K or >50K, representing the income group
 
 Objective
+
 The goal of this project is to predict whether an individual’s income is above or below $50K using the AdaBoost classifier. The model leverages Decision Trees as weak learners to boost performance.
